@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDL2_imageONimages", "SDL2_imageONimages\SDL2_imageONimages.vcxproj", "{41600331-4CEC-4207-9927-7A9962EDE7EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41600331-4CEC-4207-9927-7A9962EDE7EC}.Debug|x64.ActiveCfg = Debug|x64
+		{41600331-4CEC-4207-9927-7A9962EDE7EC}.Debug|x64.Build.0 = Debug|x64
+		{41600331-4CEC-4207-9927-7A9962EDE7EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{41600331-4CEC-4207-9927-7A9962EDE7EC}.Debug|x86.Build.0 = Debug|Win32
+		{41600331-4CEC-4207-9927-7A9962EDE7EC}.Release|x64.ActiveCfg = Release|x64
+		{41600331-4CEC-4207-9927-7A9962EDE7EC}.Release|x64.Build.0 = Release|x64
+		{41600331-4CEC-4207-9927-7A9962EDE7EC}.Release|x86.ActiveCfg = Release|Win32
+		{41600331-4CEC-4207-9927-7A9962EDE7EC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AA59475-D563-4656-9490-EDB3D2C9F5DC}
+	EndGlobalSection
+EndGlobal
